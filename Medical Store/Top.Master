@@ -54,7 +54,7 @@
     </form>
 </body>
 </html>
-<footer class="bg-dark" style="color: white">
+<footer class="bg-dark fixed-bottom" style="color: white">
     <div class="d-flex justify-content-center">
         <p>&copy; All Right Reserved </p><br />
     </div>

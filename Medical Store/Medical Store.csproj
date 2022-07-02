@@ -146,6 +146,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Home.aspx" />
+    <Content Include="Images\1.jpg" />
+    <Content Include="Images\3.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
