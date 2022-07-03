@@ -1,0 +1,24 @@
+﻿@keyframes scroll{
+    0%{
+        transform: translateX(0);
+    }
+    100%{
+        transform: translateX(calc(-250px * 7));
+    }
+}
+.brand{
+    height: 100px;
+    margin: auto;
+    overflow: visible;
+    position: relative;
+    width: auto;
+}
+.brand .slide-track{
+    animation: scroll 40s infinite;
+    display: flex;
+    width: calc(250px * 14);
+}
+.brand .slide{
+    height: 100px;
+    width: 250px;
+}

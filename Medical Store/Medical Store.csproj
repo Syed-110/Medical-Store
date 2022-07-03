@@ -148,6 +148,13 @@
     <Content Include="Home.aspx" />
     <Content Include="Images\1.jpg" />
     <Content Include="Images\3.jpg" />
+    <Content Include="Images\about.jpg" />
+    <Content Include="Images\b1.jpg" />
+    <Content Include="Images\b2.png" />
+    <Content Include="Images\b3.jpg" />
+    <Content Include="Images\b4.png" />
+    <Content Include="Images\b5.jpg" />
+    <Content Include="Style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

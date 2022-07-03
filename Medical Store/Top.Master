@@ -14,7 +14,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="#"><span><i class="fa-solid fa-house-medical"></i></span> Medical Store</a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -54,11 +54,11 @@
     </form>
 </body>
 </html>
-<footer class="bg-dark fixed-bottom" style="color: white">
+<!--<footer class="bg-dark sticky-bottom" style="color: white">
     <div class="d-flex justify-content-center">
         <p>&copy; All Right Reserved </p><br />
     </div>
     <div class="d-flex justify-content-center">
         <p><span><i class="fa-solid fa-house-medical"></i></span> Medical Store</p>
     </div>
-</footer>
+</footer>-->
